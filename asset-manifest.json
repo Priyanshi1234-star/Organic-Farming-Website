@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Organic-Farming-Website/static/css/main.c1bf9521.css",
-    "main.js": "/Organic-Farming-Website/static/js/main.b192d522.js",
-    "index.html": "/Organic-Farming-Website/index.html",
-    "main.c1bf9521.css.map": "/Organic-Farming-Website/static/css/main.c1bf9521.css.map",
-    "main.b192d522.js.map": "/Organic-Farming-Website/static/js/main.b192d522.js.map"
+    "main.css": "./static/css/main.c1bf9521.css",
+    "main.js": "./static/js/main.bb9ceee8.js",
+    "index.html": "./index.html",
+    "main.c1bf9521.css.map": "./static/css/main.c1bf9521.css.map",
+    "main.bb9ceee8.js.map": "./static/js/main.bb9ceee8.js.map"
   },
   "entrypoints": [
     "static/css/main.c1bf9521.css",
-    "static/js/main.b192d522.js"
+    "static/js/main.bb9ceee8.js"
   ]
 }
