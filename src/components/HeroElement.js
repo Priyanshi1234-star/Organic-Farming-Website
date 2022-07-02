@@ -6,7 +6,7 @@ import './HeroSection.css';
 function HeroSection() {
   return (
     <div className='hero-container'>
-      <video src='/videos/organic farming.mp4' autoPlay loop muted />
+      <video src='./videos/organic farming.mp4' autoPlay loop muted />
       <h1>ORGANIC FARMING-UK</h1>
       <p>Growth Like Never Before</p>
       <div className='hero-btns'>
