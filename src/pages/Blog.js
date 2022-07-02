@@ -5,6 +5,7 @@ import BlogList from '../components/BlogList';
 import SearchBar from '../components/SearchBar';
 import { blogList } from '../config/data';
 import SupportEngine from '../components/supportengine';
+import Footer from '../components/Footer'
 
 function Blog() {
   const [blogs, setBlogs] = useState(blogList);
@@ -45,6 +46,7 @@ function Blog() {
       {/* Blog List & Empty View */}
       {!blogs.length ? <EmptyList /> : <BlogList blogs={blogs} />}
       <SupportEngine/>
+      <Footer/>
     </div>
   )
 }

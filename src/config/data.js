@@ -9,7 +9,7 @@ export const blogList = [
       authorName: 'Organic Uk',
       authorAvatar: 'pics/avatar.png',
       createdAt: 'June 03, 2022',
-      cover: 'pics/organic manure.png',
+      cover: '/pics/organic manure.png',
     },
     {
       id: 2,
@@ -21,7 +21,7 @@ export const blogList = [
         authorName: 'Organic Uk',
         authorAvatar: 'pics/avatar.png',
         createdAt: 'June 03, 2022',
-      cover: 'pics/card2.png',
+      cover: '/pics/card2.png',
     },
     {
       id: 3,
@@ -33,7 +33,7 @@ export const blogList = [
       authorName: 'Organic Uk',
       authorAvatar: 'pics/avatar.png',
       createdAt: 'June 03, 2022',
-      cover: 'pics/card3.png',
+      cover: '/pics/card3.png',
     },
     {
       id: 4,
@@ -45,7 +45,7 @@ export const blogList = [
         authorName: 'Organic Uk',
         authorAvatar: 'pics/avatar.png',
         createdAt: 'June 03, 2022',
-      cover: 'pics/card4.png',
+      cover: '/pics/card4.png',
     },
     {
       id: 5,
@@ -57,6 +57,6 @@ export const blogList = [
         authorName: 'Organic Uk',
         authorAvatar: 'pics/avatar.png',
         createdAt: 'June 03, 2022',
-      cover: 'pics/card5.png',
+      cover: '/pics/card5.png',
     },
   ];
