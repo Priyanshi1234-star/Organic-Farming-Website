@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Organic-Farming-Website/static/css/main.c1bf9521.css",
+    "main.js": "/Organic-Farming-Website/static/js/main.b192d522.js",
+    "index.html": "/Organic-Farming-Website/index.html",
+    "main.c1bf9521.css.map": "/Organic-Farming-Website/static/css/main.c1bf9521.css.map",
+    "main.b192d522.js.map": "/Organic-Farming-Website/static/js/main.b192d522.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1bf9521.css",
+    "static/js/main.b192d522.js"
+  ]
+}
